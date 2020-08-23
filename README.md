@@ -17,21 +17,37 @@ Apresentação e Introdução ao Curso
 Uma noção do que será o curso e apresentação da visão geral sobre a área da computação e a linguagem Python.
 
 9 videos, 7 readings
+
 Reading: Visão Geral do Curso
+
 Video: A quem se destina este curso
+
 Video: Como aproveitar este curso ao máximo
+
 Reading: IMPORTANTE: O Código de Honra do Coursera
+
 Video: O que é Ciência da Computação?
+
 Reading: É necessário instalar a versão 3.X do python!
+
 Video: Instalação do python3 e IDLE no Windows
+
 Reading: Dicas para usuários Windows
+
 Video: Instalação do python3 e IDLE no Linux
+
 Reading: Dica para instalação no MacOS X
+
 Reading: Introdução à Linha de Comando
+
 Video: Introdução ao Python
+
 Video: Variáveis e Primeiro Programa
+
 Video: Quatro maneiras de rodar o python
+
 Video: Software Livre – com Nelson Posse Lago, gerente técnico do CCSL
+
 Reading: Introdução ao curso e a Python
 
 Week 1 material
