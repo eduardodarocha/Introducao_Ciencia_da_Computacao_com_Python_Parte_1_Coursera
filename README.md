@@ -268,4 +268,5 @@ Graded: Listas
 
 Graded: Programa completo - Similaridades entre textos - Caso COH-PIAH
 
+Fonte:
 https://www.coursera.org/learn/ciencia-computacao-python-conceitos/
