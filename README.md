@@ -13,7 +13,7 @@ Ao término do curso, o aluno estará capacitado para escrever pequenos programa
 
 Programa de Estudos:
 
-WEEK 1
+# WEEK 1
 
 Apresentação e Introdução ao Curso
 Uma noção do que será o curso e apresentação da visão geral sobre a área da computação e a linguagem Python.
@@ -25,8 +25,6 @@ Reading: Visão Geral do Curso
 Video: A quem se destina este curso
 
 Video: Como aproveitar este curso ao máximo
-
-Reading: IMPORTANTE: O Código de Honra do Coursera
 
 Video: O que é Ciência da Computação?
 
@@ -60,7 +58,7 @@ Graded: Introdução ao Python
 
 Graded: Variáveis e Primeiro Programa
 
-WEEK 2
+# WEEK 2
 
 Introdução ao Python
 
@@ -92,7 +90,7 @@ Graded: Variáveis e tipos de dados
 
 Graded: Lista de exercícios - 1
 
-WEEK 3
+# WEEK 3
 
 Condicionais - if...else
 
@@ -118,7 +116,7 @@ Week 3 material
 
 Graded: Lista de exercícios - 2
 
-WEEK 4
+# WEEK 4
 
 Repetição - while
 
@@ -146,7 +144,7 @@ Graded: Repetições
 
 Graded: Lista de exercícios - 3
 
-WEEK 5
+# WEEK 5
 
 Funções
 
@@ -172,7 +170,7 @@ Graded: Funções
 
 Graded: Lista de exercícios - 4
 
-WEEK 6
+# WEEK 6
 
 Depuração e refatoração
 
@@ -192,7 +190,7 @@ Week 6 material
 
 Graded: Programa completo - Jogo do NIM
 
-WEEK 7
+# WEEK 7
 
 Repetições Encaixadas
 
@@ -218,7 +216,7 @@ Week 7 material
 
 Graded: Lista de exercícios - 5
 
-WEEK 8
+# WEEK 8
 
 Listas
 
@@ -246,7 +244,7 @@ Week 8 material
 
 Graded: Lista de exercícios - 6
 
-WEEK 9
+# WEEK 9
 
 Mais sobre listas
 
