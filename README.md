@@ -1,2 +1,2 @@
-# Introducao_Ciencia_da_Computacao_com_Python_Parte_1_Coursera
+# Curso de Introdução a Ciência da Computação com Python - Parte 1 / Coursera
  Programming Assignment: Lista de exercícios
