@@ -1,5 +1,5 @@
 # Exercicio feitos para o Curso de Introdução a Ciência da Computação com Python Parte 1 - Coursera
-# by Universidade de São Paulo
+## by Universidade de São Paulo
 
 Curso de Introdução à Ciência da Computação destinado aos alunos regulares da Universidade de São Paulo e a todos os demais interessados em aprender não só a programar em Python mas também os conceitos básicos da Ciência da Computação!
 No curso você irá aprender os principais conceitos introdutórios de Ciência da Computação e também aprenderá a desenvolver pequenos programas na linguagem Python. 
@@ -12,7 +12,7 @@ Ao término do curso, o aluno estará capacitado para escrever pequenos programa
 
 Programa de Estudos:
 
-# WEEK 1
+### WEEK 1
 
 Apresentação e Introdução ao Curso
 Uma noção do que será o curso e apresentação da visão geral sobre a área da computação e a linguagem Python.
@@ -57,7 +57,7 @@ Graded: Introdução ao Python
 
 Graded: Variáveis e Primeiro Programa
 
-# WEEK 2
+### WEEK 2
 
 Introdução ao Python
 
@@ -89,7 +89,7 @@ Graded: Variáveis e tipos de dados
 
 Graded: Lista de exercícios - 1
 
-# WEEK 3
+### WEEK 3
 
 Condicionais - if...else
 
@@ -115,7 +115,7 @@ Week 3 material
 
 Graded: Lista de exercícios - 2
 
-# WEEK 4
+### WEEK 4
 
 Repetição - while
 
@@ -143,7 +143,7 @@ Graded: Repetições
 
 Graded: Lista de exercícios - 3
 
-# WEEK 5
+### WEEK 5
 
 Funções
 
@@ -169,7 +169,7 @@ Graded: Funções
 
 Graded: Lista de exercícios - 4
 
-# WEEK 6
+### WEEK 6
 
 Depuração e refatoração
 
@@ -189,7 +189,7 @@ Week 6 material
 
 Graded: Programa completo - Jogo do NIM
 
-# WEEK 7
+### WEEK 7
 
 Repetições Encaixadas
 
@@ -215,7 +215,7 @@ Week 7 material
 
 Graded: Lista de exercícios - 5
 
-# WEEK 8
+### WEEK 8
 
 Listas
 
@@ -243,7 +243,7 @@ Week 8 material
 
 Graded: Lista de exercícios - 6
 
-# WEEK 9
+### WEEK 9
 
 Mais sobre listas
 
@@ -267,5 +267,4 @@ Graded: Listas
 
 Graded: Programa completo - Similaridades entre textos - Caso COH-PIAH
 
-Fonte:
-https://www.coursera.org/learn/ciencia-computacao-python-conceitos/
+[Fonte: Coursera](https://www.coursera.org/learn/ciencia-computacao-python-conceitos/) "Coursera"
