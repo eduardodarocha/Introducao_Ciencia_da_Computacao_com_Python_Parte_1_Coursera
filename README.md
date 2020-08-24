@@ -6,7 +6,7 @@ No curso você irá aprender os principais conceitos introdutórios de Ciência 
 O objetivo principal é desenvolver o raciocínio aplicado à formulação e resolução de problemas computacionais. O ato de programar é uma ferramenta útil para trabalhar esse raciocínio, bem como tornar mais concretos outros conceitos comuns em Ciência da Computação.
 
 Esse curso foi elaborado com o apoio dos Profs. José Coelho de Pina e Carlos Hitoshi Morimoto do Departamento de Ciência da Computação do IME-USP. 
-Ensinado por:Fabio Kon, Professor Titular - Departamento de Ciência da Computação - IME
+Instrutor: Fabio Kon, Professor Titular - Departamento de Ciência da Computação - IME/USP
  
 Ao término do curso, o aluno estará capacitado para escrever pequenos programas em Python e prosseguir para a parte 2 do curso.
 
