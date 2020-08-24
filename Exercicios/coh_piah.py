@@ -1,3 +1,6 @@
+'''Instruções sobre esse exercico estão em no arquivo anexo: 
+"instrucao_exercico_Similaridades_entre_textos-Caso_COH-PIAH.md" '''
+
 import re
 
 def le_assinatura():
@@ -130,7 +133,6 @@ def calcula_assinatura(texto):
     hlr = n_palavras_unicas(totpal) / tam
 
 #---------------------------------------------------------------------
-# Tamanho médio de sentença: Média #---------------------------------------------------------------------
 # Tamanho médio de palavra: Média simples do número de caracteres por palavra.
     tampal = 0
     tam = 0

@@ -1,3 +1,6 @@
+'''Instruções de como o jogo deve ser feito, se encontra em um arquivo anexo chamado:
+instrucao_do_jogo_NIM.md'''
+
 def main():
     print('Bem-vindo ao jogo do NIM! Escolha:', end='\n\n')
     qtjogos = '0'

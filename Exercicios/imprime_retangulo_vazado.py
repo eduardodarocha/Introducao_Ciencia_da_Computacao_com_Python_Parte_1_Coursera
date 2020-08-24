@@ -1,3 +1,6 @@
+'''Refaça o exercício imprime_retangulo_cheio, imprimindo os retângulos sem preenchimento,
+ de forma que os caracteres que não estiverem na borda do retângulo sejam espaços.'''
+
 lar = int(input('digite a largura: '))
 alt = int(input('digite a altura: '))
 contlar = 1
