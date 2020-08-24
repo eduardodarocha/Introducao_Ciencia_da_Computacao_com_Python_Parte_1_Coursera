@@ -1,4 +1,4 @@
-# Exercicio feitos para o Curso de Introdução a Ciência da Computação com Python - Parte 1 / Coursera
+# Exercicio feitos para o Curso de Introdução a Ciência da Computação com Python Parte 1 - Coursera
 # by Universidade de São Paulo
 
 Curso de Introdução à Ciência da Computação destinado aos alunos regulares da Universidade de São Paulo e a todos os demais interessados em aprender não só a programar em Python mas também os conceitos básicos da Ciência da Computação!
