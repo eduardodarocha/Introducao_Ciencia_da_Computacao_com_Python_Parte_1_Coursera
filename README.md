@@ -14,7 +14,7 @@ Ao término do curso, o aluno estará capacitado para escrever pequenos programa
 
 ### WEEK 1
 
-Apresentação e Introdução ao Curso
+#### Apresentação e Introdução ao Curso
 Uma noção do que será o curso e apresentação da visão geral sobre a área da computação e a linguagem Python.
 
 - 9 videos, 7 readings
@@ -61,7 +61,7 @@ Uma noção do que será o curso e apresentação da visão geral sobre a área 
 
 ### WEEK 2
 
-Introdução ao Python
+#### Introdução ao Python
 
 Na Semana 2 iremos aprender o que são variáveis, os tipos de dados existentes e para que servem os comandos input e print. Faremos também nosso primeiro programa.
 
@@ -95,7 +95,7 @@ Na Semana 2 iremos aprender o que são variáveis, os tipos de dados existentes 
 
 ### WEEK 3
 
-Condicionais - if...else
+#### Condicionais - if...else
 
 Nesta semana estudaremos os desvios condicionais que você poderá implementar em seus programas, usando o comando "if..else". Além disso, estudaremos variáveis e expressões booleanas.
 
@@ -123,7 +123,7 @@ Nesta semana estudaremos os desvios condicionais que você poderá implementar e
 
 ### WEEK 4
 
-Repetição - while
+#### Repetição - while
 
 Começaremos vendo como é feito um programa quando temos repetição de código. Trabalharemos com indicadores de passagem e aprenderemos a utilizar o depurador (Debbuger) que faz o acompanhamento da execução do programa, auxiliando o entendimento e a detecção de possíveis erros.
 
@@ -153,7 +153,7 @@ Começaremos vendo como é feito um programa quando temos repetição de código
 
 ### WEEK 5
 
-Funções
+#### Funções
 
 Semana 5, é hora de aprendermos a fazer e utilizar funções.
 
@@ -181,7 +181,7 @@ Semana 5, é hora de aprendermos a fazer e utilizar funções.
 
 ### WEEK 6
 
-Depuração e refatoração
+#### Depuração e refatoração
 
 Nesta semana vamos pensar como melhorar programas através de refatoração e da utilização do depurador para acompanhar o funcionamento de funções. A tarefa desta semana é maior que o que vimos até agora: vamos desenvolver um programa completo!
 
@@ -203,7 +203,7 @@ Nesta semana vamos pensar como melhorar programas através de refatoração e da
 
 ### WEEK 7
 
-Repetições Encaixadas
+#### Repetições Encaixadas
 
 Existem situações em que precisamos trabalhar com repetições de repetições. Vamos ver como isso funciona?
 
@@ -231,7 +231,7 @@ Existem situações em que precisamos trabalhar com repetições de repetições
 
 ### WEEK 8
 
-Listas
+#### Listas
 
 Quando precisamos trabalhar com um conjunto de dados, utilizamos listas para implementar isso em Python. Nessa semana veremos como as listas funcionam, o comando "for", e muito mais.
 
@@ -261,7 +261,7 @@ Quando precisamos trabalhar com um conjunto de dados, utilizamos listas para imp
 
 ### WEEK 9
 
-Mais sobre listas
+#### Mais sobre listas
 
 Nossa introdução termina com uma breve discussão sobre como os objetos são armazenados na memória do computador e mais um programa completo.
 
